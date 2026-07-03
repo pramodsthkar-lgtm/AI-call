@@ -1,0 +1,8 @@
+{
+  "name": "Pramod Singh AI Sales Agent",
+  "description": "An AI-powered sales agent for website management services, designed to qualify leads and collect information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
